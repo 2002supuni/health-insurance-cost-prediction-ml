@@ -44,3 +44,15 @@ XGBoost was chosen based on evaluation metrics and overall prediction accuracy.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/health-insurance-cost-prediction-ml.git
+   
+2. Navigate to the project directory:
+   cd health-insurance-cost-prediction-ml
+
+3. Install required libraries:
+   pip install -r requirements.txt
+
+4. Run streamlit app:
+   streamlit run app.py
+
+
+
