@@ -43,7 +43,7 @@ XGBoost was chosen based on evaluation metrics and overall prediction accuracy.
 ## How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/health-insurance-cost-prediction-ml.git
+   git clone https://github.com/2002supuni/health-insurance-cost-prediction-ml.git
    
 2. Navigate to the project directory:
    cd health-insurance-cost-prediction-ml
